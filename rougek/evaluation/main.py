@@ -7,11 +7,11 @@ from rougek.utils.tokenizer import get_preprocessor
 
 
 class RougeK:
-    """RougeK: Compute ROUGE-K score for given hypo and keywords
+    """Compute ROUGE-K score for given hypo and keywords
 
     Attributes
     ----------
-    preprocessor : Slightly customized spacy-based preprocessor
+    preprocessor : Customized spacy-based preprocessor
     """
 
     def __init__(self):

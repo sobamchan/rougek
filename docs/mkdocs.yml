@@ -1,0 +1,16 @@
+site_name: My Docs
+theme:
+  name: readthedocs
+  locale: en
+  highlightjs: true
+nav:
+  - 'index.md'
+  - 'refs.md'
+
+plugins:
+  mkdocstrings:
+    default_handler: python
+    handlers:
+      python:
+        selection:
+          docstring_style: numpy
