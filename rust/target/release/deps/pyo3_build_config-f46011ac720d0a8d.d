@@ -1,0 +1,13 @@
+/Users/sobamchan/PROJECT/NLP/ROUGE-K/rougek/rust/target/release/deps/pyo3_build_config-f46011ac720d0a8d.rmeta: /Users/sobamchan/.cargo/registry/src/github.com-1ecc6299db9ec823/pyo3-build-config-0.19.2/src/lib.rs /Users/sobamchan/.cargo/registry/src/github.com-1ecc6299db9ec823/pyo3-build-config-0.19.2/src/errors.rs /Users/sobamchan/.cargo/registry/src/github.com-1ecc6299db9ec823/pyo3-build-config-0.19.2/src/impl_.rs /Users/sobamchan/PROJECT/NLP/ROUGE-K/rougek/rust/target/release/build/pyo3-build-config-cba87481088b6002/out/pyo3-build-config-file.txt /Users/sobamchan/PROJECT/NLP/ROUGE-K/rougek/rust/target/release/build/pyo3-build-config-cba87481088b6002/out/pyo3-build-config.txt
+
+/Users/sobamchan/PROJECT/NLP/ROUGE-K/rougek/rust/target/release/deps/libpyo3_build_config-f46011ac720d0a8d.rlib: /Users/sobamchan/.cargo/registry/src/github.com-1ecc6299db9ec823/pyo3-build-config-0.19.2/src/lib.rs /Users/sobamchan/.cargo/registry/src/github.com-1ecc6299db9ec823/pyo3-build-config-0.19.2/src/errors.rs /Users/sobamchan/.cargo/registry/src/github.com-1ecc6299db9ec823/pyo3-build-config-0.19.2/src/impl_.rs /Users/sobamchan/PROJECT/NLP/ROUGE-K/rougek/rust/target/release/build/pyo3-build-config-cba87481088b6002/out/pyo3-build-config-file.txt /Users/sobamchan/PROJECT/NLP/ROUGE-K/rougek/rust/target/release/build/pyo3-build-config-cba87481088b6002/out/pyo3-build-config.txt
+
+/Users/sobamchan/PROJECT/NLP/ROUGE-K/rougek/rust/target/release/deps/pyo3_build_config-f46011ac720d0a8d.d: /Users/sobamchan/.cargo/registry/src/github.com-1ecc6299db9ec823/pyo3-build-config-0.19.2/src/lib.rs /Users/sobamchan/.cargo/registry/src/github.com-1ecc6299db9ec823/pyo3-build-config-0.19.2/src/errors.rs /Users/sobamchan/.cargo/registry/src/github.com-1ecc6299db9ec823/pyo3-build-config-0.19.2/src/impl_.rs /Users/sobamchan/PROJECT/NLP/ROUGE-K/rougek/rust/target/release/build/pyo3-build-config-cba87481088b6002/out/pyo3-build-config-file.txt /Users/sobamchan/PROJECT/NLP/ROUGE-K/rougek/rust/target/release/build/pyo3-build-config-cba87481088b6002/out/pyo3-build-config.txt
+
+/Users/sobamchan/.cargo/registry/src/github.com-1ecc6299db9ec823/pyo3-build-config-0.19.2/src/lib.rs:
+/Users/sobamchan/.cargo/registry/src/github.com-1ecc6299db9ec823/pyo3-build-config-0.19.2/src/errors.rs:
+/Users/sobamchan/.cargo/registry/src/github.com-1ecc6299db9ec823/pyo3-build-config-0.19.2/src/impl_.rs:
+/Users/sobamchan/PROJECT/NLP/ROUGE-K/rougek/rust/target/release/build/pyo3-build-config-cba87481088b6002/out/pyo3-build-config-file.txt:
+/Users/sobamchan/PROJECT/NLP/ROUGE-K/rougek/rust/target/release/build/pyo3-build-config-cba87481088b6002/out/pyo3-build-config.txt:
+
+# env-dep:OUT_DIR=/Users/sobamchan/PROJECT/NLP/ROUGE-K/rougek/rust/target/release/build/pyo3-build-config-cba87481088b6002/out
